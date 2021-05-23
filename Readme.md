@@ -1,3 +1,1 @@
-# Contributions
-### Shriya Bijam
-### Tushar Amdoskar
+Backend for Steganography miniproject
